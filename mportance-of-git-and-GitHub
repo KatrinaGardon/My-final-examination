@@ -1,0 +1,5 @@
+Git is a distributed version control
+technology for managing the source code history 
+of a development project, and GitHub is a cloud-based platform based on Git.
+Git is a local program that a developer installs on their computer, but GitHub is an internet service that keeps code sent to it from Git-enabled machines. 
+Git differs from GitHub in that it is an open-source project.
